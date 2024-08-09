@@ -1,0 +1,14 @@
+C:\Users\Gabriela\OneDrive\Área de Trabalho\github\exemplo-poo\bin\Debug\net8.0\exemplo-poo.exe
+C:\Users\Gabriela\OneDrive\Área de Trabalho\github\exemplo-poo\bin\Debug\net8.0\exemplo-poo.deps.json
+C:\Users\Gabriela\OneDrive\Área de Trabalho\github\exemplo-poo\bin\Debug\net8.0\exemplo-poo.runtimeconfig.json
+C:\Users\Gabriela\OneDrive\Área de Trabalho\github\exemplo-poo\bin\Debug\net8.0\exemplo-poo.dll
+C:\Users\Gabriela\OneDrive\Área de Trabalho\github\exemplo-poo\bin\Debug\net8.0\exemplo-poo.pdb
+C:\Users\Gabriela\OneDrive\Área de Trabalho\github\exemplo-poo\obj\Debug\net8.0\exemplo-poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriela\OneDrive\Área de Trabalho\github\exemplo-poo\obj\Debug\net8.0\exemplo-poo.AssemblyInfoInputs.cache
+C:\Users\Gabriela\OneDrive\Área de Trabalho\github\exemplo-poo\obj\Debug\net8.0\exemplo-poo.AssemblyInfo.cs
+C:\Users\Gabriela\OneDrive\Área de Trabalho\github\exemplo-poo\obj\Debug\net8.0\exemplo-poo.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\OneDrive\Área de Trabalho\github\exemplo-poo\obj\Debug\net8.0\exemplo-poo.dll
+C:\Users\Gabriela\OneDrive\Área de Trabalho\github\exemplo-poo\obj\Debug\net8.0\refint\exemplo-poo.dll
+C:\Users\Gabriela\OneDrive\Área de Trabalho\github\exemplo-poo\obj\Debug\net8.0\exemplo-poo.pdb
+C:\Users\Gabriela\OneDrive\Área de Trabalho\github\exemplo-poo\obj\Debug\net8.0\exemplo-poo.genruntimeconfig.cache
+C:\Users\Gabriela\OneDrive\Área de Trabalho\github\exemplo-poo\obj\Debug\net8.0\ref\exemplo-poo.dll
