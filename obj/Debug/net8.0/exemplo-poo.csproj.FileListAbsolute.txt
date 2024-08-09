@@ -12,3 +12,4 @@ C:\Users\Gabriela\OneDrive\Área de Trabalho\github\exemplo-poo\obj\Debug\net8.0
 C:\Users\Gabriela\OneDrive\Área de Trabalho\github\exemplo-poo\obj\Debug\net8.0\exemplo-poo.pdb
 C:\Users\Gabriela\OneDrive\Área de Trabalho\github\exemplo-poo\obj\Debug\net8.0\exemplo-poo.genruntimeconfig.cache
 C:\Users\Gabriela\OneDrive\Área de Trabalho\github\exemplo-poo\obj\Debug\net8.0\ref\exemplo-poo.dll
+C:\Users\Gabriela\OneDrive\Área de Trabalho\github\exemplo-poo\obj\Debug\net8.0\exemplo-poo.sourcelink.json
