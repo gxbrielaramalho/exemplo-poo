@@ -5,9 +5,17 @@ using System.Threading.Tasks;
 
 namespace exemplo_poo.Models
 {
-    public class Aluno : Pessoa 
+    public class Aluno : Pessoa
     {
-        public double Nota { get; set;}
+        public Aluno()
+        {
+
+        }
+        public Aluno(string nome) : base(nome)
+        {
+
+        }
+        public double Nota { get; set; }
 
         public override void Apresentar()
         {

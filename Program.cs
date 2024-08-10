@@ -1,10 +1,96 @@
 ﻿using System.Net.NetworkInformation;
 using exemplo_poo;
 using exemplo_poo.Models;
+using exemplo_poo.Interfaces;
 
-Corrente c = new Corrente();
-c.Creditar(500);
-c.ExibirSaldo();
+ICalculadora calc = new Calculadora();
+Console.WriteLine(calc.Multiplicar(3,9));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//Computador c = new();
+//Console.WriteLine(c.ToString());
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//Corrente c = new Corrente();
+//c.Creditar(500);
+//c.ExibirSaldo();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//Pessoa p1 = new Pessoa("Gabriela");
+//Aluno a1 = new Aluno("Eduarda");
+//a1.Apresentar();
+//Professor professor = new();
+
 
 
 
